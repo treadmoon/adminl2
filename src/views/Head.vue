@@ -2,7 +2,7 @@
     <div class="head">
         <div class="info-box">
             <span class="info-item">
-                账户名称：<span>雨小</span>
+                账户名称：<span>雨小了</span>
             </span>
             <span class="info-item">
                 公司名称：<span>长安消防</span>
